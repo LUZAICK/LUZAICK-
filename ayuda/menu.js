@@ -23,7 +23,7 @@ const menu = (tanggal, jam, pushname, sender, Fg, prefix, user, uptime, isGroupA
 ├╼ Nombre : *${pushname}*
 ├╼ Numero : *${sender.split("@")[0]}*
 └──────────────
-  ≡  *•°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•° 👨🏻‍💻*
+  ≡  *LUZAICK 👨🏻‍💻*
 
 ┌───⊷ *GRUPO* ⊶
 ├╼ *${groupMetadata.subject}*
@@ -52,7 +52,7 @@ const menu = (tanggal, jam, pushname, sender, Fg, prefix, user, uptime, isGroupA
 ├╼ *${prefix}Soporte*
 ├╼ *${prefix}Install*
 └──────────────
-  ≡  •°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•° 👨🏻‍💻 
+  ≡  LUZAICK  👨🏻‍💻 
 © *Dev y Owner*
 ──────────────────────`
 
@@ -64,7 +64,7 @@ else if (!isGroup) return`▢ ${tanggal()}
 ├╼ Nombre : *${pushname}*
 ├╼ Numero : *${sender.split("@")[0]}*
 └──────────────
-  ≡  *•°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•° 👨🏻‍💻*
+  ≡  *LUZAICK 👨🏻‍💻*
 ┌──────────────
 ├╼ *Ig* : instagram.com/fg98._
 ├╼ *Grupo* : t.me/AndroidWorldfg
@@ -83,7 +83,7 @@ else if (!isGroup) return`▢ ${tanggal()}
 ├╼ *${prefix}menu group*
 ├╼ *${prefix}menu owner*
 └──────────────
-┌───⊷ *ACERCA DE •°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•°* ⊶
+┌───⊷ *ACERCA DE LUZAICK ⊶
 ├╼ *${prefix}Bot*
 ├╼ *${prefix}Info*
 ├╼ *${prefix}Creador*
@@ -95,7 +95,7 @@ else if (!isGroup) return`▢ ${tanggal()}
 ├╼ *${prefix}Soporte*
 ├╼ *${prefix}Install*
 └──────────────
-  ≡  •°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•° 👨🏻‍💻 
+  ≡  LUZAICK 👨🏻‍💻 
 © *Dev y Owner*
 ──────────────────────`
 }

@@ -1,5 +1,5 @@
 {
-  "name": "termux-wabot",
+  "name": "•°❤︎⋆𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓⋆❤︎•°",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "FG98",
+  "author": "LUZAICK",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FG98F"
+    "url": "https://github.com/LUZAICK/LUZAICK-"
   },
   "bugs": {
-    "url": "https://github.com/FG98F/fgbot"
+    "url": "https://github.com/LUZAICK/LUZAICK-"
   },
-  "homepage": "https://github.com/FG98F/fgbot#readme"
+  "homepage": "https://github.com/LUZAICK/LUZAICK-#readme"
 }
